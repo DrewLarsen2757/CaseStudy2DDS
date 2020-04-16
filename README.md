@@ -1,6 +1,6 @@
 # CaseStudy2DDS
 
-Youtube video link: 
+Youtube video link: https://www.youtube.com/watch?v=CJ9QYGJSA9U
 
 ## Introduction
 Our team at DDSAnalytics was tasked by Frito Lay to develop the company's first application of data science for talent management. Specific tasks achieved in this analysis:
